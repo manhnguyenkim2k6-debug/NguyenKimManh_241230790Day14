@@ -1,0 +1,60 @@
+﻿@model NguyenKimmanh_241230790.Models.SachCreateViewModel
+@{
+    ViewData["Title"] = "Thêm sách mới";
+}
+<main class="main">
+    <div class="container">
+
+        <div class="section-head">
+            <h3>NGUYỄN KIM MẠNH - THÊM SÁCH MỚI</h3>
+        </div>
+
+        <form asp-action="Create" asp-controller="Sach"
+              method="post">
+
+            <div asp-validation-summary="ModelOnly"
+                 class="text-danger"></div>
+
+            <div>
+                <label asp-for="MaTl">MaTL</label>
+                <select asp-for="MaTl"
+                        asp-items="ViewBag.MaTL">
+                    <option value="">-- Chọn thể loại --</option>
+                </select>
+                <span asp-validation-for="MaTl"
+                      class="text-danger"></span>
+            </div>
+
+            <div>
+                <label asp-for="TenSach">TenSach</label>
+                <input asp-for="TenSach" />
+                <span asp-validation-for="TenSach"
+                      class="text-danger"></span>
+            </div>
+
+            <div>
+                <label asp-for="Gia">Gia</label>
+                <input asp-for="Gia" type="number"
+                       min="50" max="1000" step="1" />
+                <span asp-validation-for="Gia"
+                      class="text-danger"></span>
+            </div>
+
+            <div>
+                <label asp-for="Anh">Anh</label>
+                <input asp-for="Anh" />
+                <span asp-validation-for="Anh"
+                      class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn-buy">
+                Create
+            </button>
+        </form>
+
+    </div>
+</main>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

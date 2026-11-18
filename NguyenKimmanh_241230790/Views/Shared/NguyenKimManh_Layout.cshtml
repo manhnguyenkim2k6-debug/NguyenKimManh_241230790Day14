@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>BookHub - Nhà sách trực tuyến</title>
+    <link href="~/css/layout.css" rel="stylesheet" type="text/css" />
+    <link href="~/css/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <!-- Begin Header -->
+   @await Html.PartialAsync("NguyenKimManh_Header")
+    <!-- End Header -->
+    <!-- Begin Main Content -->
+    @RenderBody()
+    <!-- End Main Content -->
+    <!-- Begin Footer -->
+    @await Html.PartialAsync("NguyenKimManh_Footer")
+    <!-- End Footer -->
+    <div class="to-top">&uarr;</div>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/main.js"></script>
+    <script>
+            $(document).on("click", ".menu-theloai", function (e) {
+                e.preventDefault();
+
+                var maTL = $(this).attr("data-id");
+                var tenTL = $(this).attr("data-name");
+
+                $.ajax({
+                    url: '@Url.Action("LocTheoLoai", "Home")',
+                    type: "GET",
+                    data: { maTL: maTL },
+
+                    success: function (result) {
+                        $("#danhSachSach").html(result);
+                        $("#tenKhuVuc").text(tenTL);
+
+                        $(".menu li").removeClass("active");
+                        $(e.currentTarget).parent().addClass("active");
+                    },
+
+                    error: function (xhr) {
+                        alert("Lỗi AJAX: " + xhr.status);
+                    }
+                });
+            });
+    </script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

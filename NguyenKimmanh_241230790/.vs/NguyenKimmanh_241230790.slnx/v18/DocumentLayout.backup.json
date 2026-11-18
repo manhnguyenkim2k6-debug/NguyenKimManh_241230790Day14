@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|e:\\laptrinhweb\\nhasach\\nguyenkimmanh_241230790\\views\\sach\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|solutionrelative:views\\sach\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|e:\\laptrinhweb\\nhasach\\nguyenkimmanh_241230790\\controllers\\sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|solutionrelative:controllers\\sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|e:\\laptrinhweb\\nhasach\\nguyenkimmanh_241230790\\models\\sachcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|solutionrelative:models\\sachcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|e:\\laptrinhweb\\nhasach\\nguyenkimmanh_241230790\\views\\shared\\nguyenkimmanh_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|solutionrelative:views\\shared\\nguyenkimmanh_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|e:\\laptrinhweb\\nhasach\\nguyenkimmanh_241230790\\views\\shared\\nguyenkimmanh_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|solutionrelative:views\\shared\\nguyenkimmanh_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|e:\\laptrinhweb\\nhasach\\nguyenkimmanh_241230790\\views\\shared\\nguyenkimmanh_maincontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|solutionrelative:views\\shared\\nguyenkimmanh_maincontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|e:\\laptrinhweb\\nhasach\\nguyenkimmanh_241230790\\views\\shared\\components\\theloaimenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|solutionrelative:views\\shared\\components\\theloaimenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|e:\\laptrinhweb\\nhasach\\nguyenkimmanh_241230790\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|e:\\laptrinhweb\\nhasach\\nguyenkimmanh_241230790\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|e:\\laptrinhweb\\nhasach\\nguyenkimmanh_241230790\\views\\home\\_danhsachsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|solutionrelative:views\\home\\_danhsachsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|e:\\laptrinhweb\\nhasach\\nguyenkimmanh_241230790\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|e:\\laptrinhweb\\nhasach\\nguyenkimmanh_241230790\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|solutionrelative:models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|e:\\laptrinhweb\\nhasach\\nguyenkimmanh_241230790\\viewcomponents\\theloaimenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|solutionrelative:viewcomponents\\theloaimenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|e:\\laptrinhweb\\nhasach\\nguyenkimmanh_241230790\\models\\qlnhasachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|solutionrelative:models\\qlnhasachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|e:\\laptrinhweb\\nhasach\\nguyenkimmanh_241230790\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|e:\\laptrinhweb\\nhasach\\nguyenkimmanh_241230790\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|e:\\laptrinhweb\\nhasach\\nguyenkimmanh_241230790\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|e:\\laptrinhweb\\nhasach\\nguyenkimmanh_241230790\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|e:\\laptrinhweb\\nhasach\\nguyenkimmanh_241230790\\views\\shared\\nguyenkimmanh_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68F81529-1B7B-A44C-BD6F-F29668CA0521}|NguyenKimmanh_241230790.csproj|solutionrelative:views\\shared\\nguyenkimmanh_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SachController.cs",
+              "DocumentMoniker": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Controllers\\SachController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SachController.cs",
+              "ToolTip": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Controllers\\SachController.cs*",
+              "RelativeToolTip": "Controllers\\SachController.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T04:21:52.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Views\\Sach\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Sach\\Create.cshtml",
+              "ToolTip": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Views\\Sach\\Create.cshtml*",
+              "RelativeToolTip": "Views\\Sach\\Create.cshtml*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T04:23:43.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SachCreateViewModel.cs",
+              "DocumentMoniker": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Models\\SachCreateViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\SachCreateViewModel.cs",
+              "ToolTip": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Models\\SachCreateViewModel.cs*",
+              "RelativeToolTip": "Models\\SachCreateViewModel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T04:29:45.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NguyenKimManh_Layout.cshtml",
+              "DocumentMoniker": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Views\\Shared\\NguyenKimManh_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\NguyenKimManh_Layout.cshtml",
+              "ToolTip": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Views\\Shared\\NguyenKimManh_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\NguyenKimManh_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:51:03.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NguyenKimManh_Header.cshtml",
+              "DocumentMoniker": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Views\\Shared\\NguyenKimManh_Header.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\NguyenKimManh_Header.cshtml",
+              "ToolTip": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Views\\Shared\\NguyenKimManh_Header.cshtml",
+              "RelativeToolTip": "Views\\Shared\\NguyenKimManh_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:51:22.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NguyenKimManh_MainContent.cshtml",
+              "DocumentMoniker": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Views\\Shared\\NguyenKimManh_MainContent.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\NguyenKimManh_MainContent.cshtml",
+              "ToolTip": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Views\\Shared\\NguyenKimManh_MainContent.cshtml",
+              "RelativeToolTip": "Views\\Shared\\NguyenKimManh_MainContent.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:51:52.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Views\\Shared\\Components\\TheLoaiMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\TheLoaiMenu\\Default.cshtml",
+              "ToolTip": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Views\\Shared\\Components\\TheLoaiMenu\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\TheLoaiMenu\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T01:28:11.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T01:40:26.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "style.css",
+              "DocumentMoniker": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
+              "ToolTip": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\css\\style.css",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-18T04:12:02.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_DanhSachSach.cshtml",
+              "DocumentMoniker": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Views\\Home\\_DanhSachSach.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\_DanhSachSach.cshtml",
+              "ToolTip": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Views\\Home\\_DanhSachSach.cshtml",
+              "RelativeToolTip": "Views\\Home\\_DanhSachSach.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T04:02:12.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T01:04:32.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QLNhaSachContext.cs",
+              "DocumentMoniker": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Models\\QLNhaSachContext.cs",
+              "RelativeDocumentMoniker": "Models\\QLNhaSachContext.cs",
+              "ToolTip": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Models\\QLNhaSachContext.cs",
+              "RelativeToolTip": "Models\\QLNhaSachContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T01:13:55.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TheLoaiMenuViewComponent.cs",
+              "DocumentMoniker": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\ViewComponents\\TheLoaiMenuViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\TheLoaiMenuViewComponent.cs",
+              "ToolTip": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\ViewComponents\\TheLoaiMenuViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\TheLoaiMenuViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T01:22:38.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Models\\Sach.cs",
+              "RelativeDocumentMoniker": "Models\\Sach.cs",
+              "ToolTip": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Models\\Sach.cs",
+              "RelativeToolTip": "Models\\Sach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T02:05:17.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:58:14.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-18T01:15:07.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T01:04:15.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:59:09.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NguyenKimManh_Footer.cshtml",
+              "DocumentMoniker": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Views\\Shared\\NguyenKimManh_Footer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\NguyenKimManh_Footer.cshtml",
+              "ToolTip": "E:\\LaptrinhWeb\\NhaSach\\NguyenKimmanh_241230790\\Views\\Shared\\NguyenKimManh_Footer.cshtml",
+              "RelativeToolTip": "Views\\Shared\\NguyenKimManh_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:52:18.663Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

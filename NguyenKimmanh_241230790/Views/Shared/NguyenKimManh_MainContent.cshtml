@@ -1,0 +1,14 @@
+﻿@model IEnumerable<NguyenKimmanh_241230790.Models.Sach>
+<main class="main">
+    <div class="container">
+
+        <!-- Sách mới -->
+        <div class="section-head">
+            <h3 id="tenKhuVuc">Nguyễn Kim Mạnh</h3>
+            <a href="#">Xem tất cả &rsaquo;</a>
+        </div>
+            <div id="danhSachSach" class="grid">
+                @await Html.PartialAsync("_DanhSachSach", Model)
+            </div>
+    </div>
+</main>
